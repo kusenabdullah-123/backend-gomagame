@@ -1,8 +1,22 @@
-import json
+
+from model.utilitys import openFile
+
+file = "gallery"
 
 
 def getAllGallery():
-    with open('../database/gallery.json') as galleryJson:
-        galleryObj = json.load(galleryJson)
-        galleryJson.close()
-    return galleryObj
+    gallerys = openFile(file)
+    return gallerys["gallery"]
+
+
+def filtered(idGallery, data):
+    for item in data:
+        if item["idGallery"] == idGallery:
+            obj = item
+    return obj
+
+
+def getGalleryById(idGallery):
+    print(idGallery)
+    gallery = openFile(file)
+    return filtered(idGallery, gallery['gallery'])
