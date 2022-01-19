@@ -2,27 +2,38 @@
   "gallery": [
     {
       "idGallery": 1,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-1",
+      "nameImage": "gallery-1"
     },
     {
       "idGallery": 2,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-2",
+      "nameImage": "gallery-2"
     },
     {
       "idGallery": 3,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-3",
+      "nameImage": "gallery-3"
     },
     {
       "idGallery": 4,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-4",
+      "nameImage": "gallery-4"
     },
     {
       "idGallery": 5,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-5",
+      "nameImage": "gallery-5"
     },
     {
       "idGallery": 6,
-      "imageUrl": ""
+      "imageUrl": "v1/images/?name=gallery-6",
+      "nameImage": "gallery-5"
+    },
+    {
+      "idGallery": 7,
+      "imageUrl": "v1/images/?name=gallery-7",
+      "nameImage": "gallery-1"
     }
   ]
 }

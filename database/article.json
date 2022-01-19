@@ -2,10 +2,24 @@
   "article": [
     {
       "idArticle": 1,
-      "imageUrl": "",
-      "typeImage": "",
-      "judul": "",
-      "description": "",
+      "imageUrl": "v1/images/?name=detail-news1",
+      "detailImage": "v1/images/?name=detail-news1",
+      "judul": "Daftar Tim, Grup, Format, Jadwal, dan Cara Nonton PMPL SEA Championship S4",
+      "shortDesc": "Di tengah live streaming Genshin Impact, Windah Basudara dihubungi oleh ibu-ibu yang marah karena membuat anaknya jadi sering ke kamar mandi. Sebagai youtuber yang sering ditonton puluhan ribu orang pada saat live streaming,Windah Basudara cukup sering melakukan drama",
+      "time": "2 days ago",
+      "longDesc1": "Di tengah live streaming Genshin Impact, Windah Basudara dihubungi oleh ibu-ibu yang marah karena membuat anaknya jadi sering ke kamar mandi. Sebagai youtuber yang sering ditonton puluhan ribu orang pada saat live streaming, Windah Basudara cukup sering melakukan drama. Biasanya, drama ini muncul saat Windah hendak menyudahi konten live streaming-nya. Salah satu drama yang marak diperbincangkan belakang ini adalah ketika ia bermain Genshin Impact",
+      "longDesc2": "Di tengah live streaming Genshin Impact, Windah Basudara dihubungi oleh ibu-ibu yang marah karena membuat anaknya jadi sering ke kamar mandi. Sebagai youtuber yang sering ditonton puluhan ribu orang pada saat live streaming, Windah Basudara cukup sering melakukan drama. Biasanya, drama ini muncul saat Windah hendak menyudahi konten live streaming-nya. Salah satu drama yang marak diperbincangkan belakang ini adalah ketika ia bermain Genshin Impact",
+      "trending": false
+    },
+    {
+      "idArticle": 2,
+      "imageUrl": "v1/images/?name=detail-news2",
+      "detailImage": "v1/images/?name=detail-news2",
+      "judul": "Free Fire Resmi Kolaborasi dengan Assassin's Creed",
+      "shortDesc": "Di tengah live streaming Genshin Impact, Windah Basudara dihubungi oleh ibu-ibu yang marah karena membuat anaknya jadi sering ke kamar mandi. Sebagai youtuber yang sering ditonton puluhan ribu orang pada saat live streaming,Windah Basudara cukup sering melakukan drama",
+      "time": "1 Hour ago",
+      "longDesc1": "Garena telah mengumumkan kolaborasi terbaru yang akan membawa konten dari seri video game pemenang penghargaan Ubisoft, Assassin's Creed, ke dalam Free Fire. Kolaborasi ini akan menyatukan penggemar salah satu serial video game paling populer dan salah satu game seluler paling populer di dunia.Assassin's Creed sangat disukai oleh komunitas game secara global, dan kolaborasi ini dibangun di atas strategi Free Fire untuk menghadirkan konten yang dapat dinikmati oleh semua orang. Pemain dapat menantikan pengalaman spesial dalam game yang akan menampilkan tokoh ikonik dari serial Assassin's Creed melalui koleksi bundle di dalam game.",
+      "longDesc2": "Garena telah mengumumkan kolaborasi terbaru yang akan membawa konten dari seri video game pemenang penghargaan Ubisoft, Assassin's Creed, ke dalam Free Fire. Kolaborasi ini akan menyatukan penggemar salah satu serial video game paling populer dan salah satu game seluler paling populer di dunia.Assassin's Creed sangat disukai oleh komunitas game secara global, dan kolaborasi ini dibangun di atas strategi Free Fire untuk menghadirkan konten yang dapat dinikmati oleh semua orang. Pemain dapat menantikan pengalaman spesial dalam game yang akan menampilkan tokoh ikonik dari serial Assassin's Creed melalui koleksi bundle di dalam game.",
       "trending": false
     }
   ]

@@ -3,7 +3,7 @@
     {
       "idBanner": 1,
       "imageType": "image/webp",
-      "imageUrl": "/v1/images/?name=banner-1"
+      "imageUrl": "v1/images/?name=banner-1"
     }
   ]
 }

@@ -2,9 +2,120 @@
   "game": [
     {
       "idGame": 1,
-      "namaGame": "",
-      "urlImage": "",
-      "typeImage": "",
+      "namaGame": "Call Of Duty",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup01",
+      "favorit": false
+    },
+    {
+      "idGame": 2,
+      "namaGame": "PUBG Mobile",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup02",
+      "favorit": false
+    },
+    {
+      "idGame": 3,
+      "namaGame": "Cyber Hunter",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup03",
+
+      "favorit": false
+    },
+    {
+      "idGame": 4,
+      "namaGame": "Mobile Legends",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup04",
+
+      "favorit": false
+    },
+    {
+      "idGame": 5,
+      "namaGame": "PUBG New State",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup05",
+
+      "favorit": false
+    },
+    {
+      "idGame": 6,
+      "namaGame": "Domino Island",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup06",
+
+      "favorit": false
+    },
+    {
+      "idGame": 7,
+      "namaGame": "Free Fire",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup07",
+
+      "favorit": false
+    },
+    {
+      "idGame": 8,
+      "namaGame": "Garena",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup08",
+
+      "favorit": false
+    },
+    {
+      "idGame": 9,
+      "namaGame": "Sausage Man",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup09",
+
+      "favorit": false
+    },
+    {
+      "idGame": 10,
+      "namaGame": "Bigo",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup10",
+
+      "favorit": false
+    },
+    {
+      "idGame": 11,
+      "namaGame": "Shell Fire",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup11",
+
+      "favorit": false
+    },
+    {
+      "idGame": 12,
+      "namaGame": "Valorant",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup12",
+
+      "favorit": false
+    },
+    {
+      "idGame": 13,
+      "namaGame": "Point Blank",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup13",
+
+      "favorit": false
+    },
+    {
+      "idGame": 14,
+      "namaGame": "Dragon Raja",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup14",
+
+      "favorit": false
+    },
+    {
+      "idGame": 15,
+      "namaGame": "God Of War",
+      "descGame": "Experience the thrill of Call of Duty on the go. Play as iconic characters in battle royale and multiplayer in our best fps free mobile game.",
+      "urlImage": "v1/images/?name=topup15",
+
       "favorit": false
     }
   ]

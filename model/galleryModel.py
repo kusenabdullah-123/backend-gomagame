@@ -17,6 +17,5 @@ def filtered(idGallery, data):
 
 
 def getGalleryById(idGallery):
-    print(idGallery)
     gallery = openFile(file)
     return filtered(idGallery, gallery['gallery'])

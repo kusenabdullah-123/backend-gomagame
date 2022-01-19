@@ -4,8 +4,52 @@
       "idGame": 1,
       "items": [
         {
-          "item": "60 CP",
+          "item": "10 CP",
           "price": 2000
+        },
+        {
+          "item": "20 CP",
+          "price": 3000
+        },
+        {
+          "item": "30 CP",
+          "price": 4000
+        },
+        {
+          "item": "40 CP",
+          "price": 5000
+        },
+        {
+          "item": "50 CP",
+          "price": 6000
+        },
+        {
+          "item": "60 CP",
+          "price": 7000
+        },
+        {
+          "item": "70 CP",
+          "price": 8000
+        },
+        {
+          "item": "80 CP",
+          "price": 9000
+        },
+        {
+          "item": "90 CP",
+          "price": 2000
+        },
+        {
+          "item": "100 CP",
+          "price": 10000
+        },
+        {
+          "item": "110 CP",
+          "price": 11000
+        },
+        {
+          "item": "120 CP",
+          "price": 12000
         }
       ]
     }
